@@ -18,7 +18,7 @@ A modern Airbnb clone starter using Next.js, TypeScript, and TailwindCSS.
 
 ## 📦 Run Locally
 ```bash
-git clone https://github.com/yourusername/alx-listing-app.git
+git clone https://github.com/Lapidis2/alx-listing-app.git
 cd alx-listing-app
 npm install
 npm run dev
